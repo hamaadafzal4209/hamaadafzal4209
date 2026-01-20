@@ -30,6 +30,9 @@ I enjoy solving real-world problems, writing clean code, and continuously improv
 <a href="https://www.linkedin.com/in/hamaad-afzal-6264022b5/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
 </a>
+<a href="https://www.facebook.com/h.hamaad.afzal" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35"/>
+</a>
 <a href="https://www.instagram.com/itx_hamaad_5040/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
 </a>
